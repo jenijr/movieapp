@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "# Introduction",
   "main": "index.js",
-  "scripts": {
-    "dev": "nodemon index.js"
-  },
+   "scripts":{
+"start": "node index.js"
+   },
   "author": "",
   "license": "ISC",
   "dependencies": {
